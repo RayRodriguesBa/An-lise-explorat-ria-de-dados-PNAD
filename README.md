@@ -63,8 +63,6 @@ Ao longo de seus **mais de 49 anos de realização**, a PNAD consolidou-se como 
 
 - **Python**
 - **Pandas**
-- **NumPy**
-- **Matplotlib**
 - **Seaborn**
 
 ---
