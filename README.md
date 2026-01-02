@@ -8,6 +8,28 @@ A análise busca compreender o comportamento e a distribuição de variáveis so
 
 ---
 
+
+OBS: A análise completa pode ser acessada no notebook disponível no repositório do GitHub:
+🔗 https://github.com/RayRodriguesBa/An-lise-explorat-ria-de-dados-PNAD/blob/main/An%C3%A1lise_Descritiva_PNAD2015.ipynb
+
+O conjunto de dados utilizado na análise também está disponibilizado no próprio repositório.
+
+▶️ Como reproduzir a análise no Google Colab
+
+Para reproduzir esta análise no Google Colab, siga os passos abaixo:
+
+Faça o download do conjunto de dados disponível no repositório
+
+Acesse o notebook pelo link acima
+
+Clique na opção “Abrir no Colab”
+
+Realize o upload do arquivo de dados no ambiente do Colab
+
+Execute as células do notebook para reproduzir a Análise Exploratória de Dados
+
+
+
 ## 🔍 Metodologia
 
 Ao longo do projeto, são utilizadas técnicas de **Análise Exploratória de Dados (AED)**, incluindo:
